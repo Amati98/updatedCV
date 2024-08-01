@@ -1,0 +1,32 @@
+#main-background{
+    background-color: white;
+}
+
+#background-1{
+background-color: #EEF0F1;
+height: 100vh;
+}
+
+#background-2{
+background-color: #A0C7D1;
+height: 100vh;
+}
+.alignment{
+
+}
+#footer-bg{
+    background-color: #EEF0F1;
+    padding-bottom: 50px;
+}
+body{
+    font-family: serif;
+}
+
+@media (min-width: 319px) and (max-width: 480px) {
+    #background-1{
+        background-color: #EEF0F1;
+        height: 40vh;
+        }
+        
+  }
+  
